@@ -22,3 +22,12 @@ class ItineraryItem {
   late double lat;
   late double lng;
 }
+
+@Collection()
+class ChatMessage {
+  Id id = Isar.autoIncrement;
+  late int tripId;
+  late String text;
+  late bool isUser;
+  late DateTime timestamp;
+}
