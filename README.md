@@ -59,7 +59,7 @@ A sophisticated AI-powered travel planning application built with Flutter that l
 - Flutter SDK (latest stable version)
 - Dart SDK
 - Android Studio / VS Code
-- Google API Keys (Gemini AI, Maps)
+- Google API Keys (Gemini AI)
 
 ### Installation
 
@@ -135,11 +135,6 @@ The application requires the following environment variables:
 
 
 
-### Development Guidelines
-- Follow Flutter best practices
-- Write clean, documented code
-- Add tests for new features
-- Update documentation as needed
 
 ## 📄 License
 
