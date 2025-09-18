@@ -13,3 +13,6 @@ void main() {
 
   print(itinerary);
 }
+
+// dependencies:
+//   isar_flutter_libs: any

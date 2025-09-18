@@ -7,7 +7,6 @@ import '../../data/datasources/gemini_api.dart';
 import '../../data/models/itinerary.dart';
 import '../../data/repositories/isar_repository.dart';
 import '../widgets/message_widgets.dart';
-import 'trip_view_screen.dart';
 import 'token_manager_screen.dart';
 
 class ChatScreen extends StatefulWidget {
