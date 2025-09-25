@@ -1,4 +1,4 @@
-# 🚀 Smart Trip Planner
+# 🚀 Smart Trip Planner (Trip Mosaic)
 
 A sophisticated AI-powered travel planning application built with Flutter that leverages Google Gemini AI to create personalized trip itineraries through natural language conversations.
 
