@@ -34,7 +34,7 @@ class _ChatScreenState extends State<ChatScreen> {
     _loadConversationHistory();
   }
 
-  @override
+  @overrid
   void dispose() {
     _controller.dispose();
     _scrollController.dispose();
